@@ -2,8 +2,10 @@
 
 vibe\frontend\src\hooks\hooks.ts
 vibe\frontend\src\app\pages\teacher\teacher-course-page.tsx
-vibe\frontend\src\app\pages\teacher\hp-system\components\OverviewTab.tsx
 
+//  UI Fixes
+vibe\frontend\src\app\pages\teacher\hp-system\components\OverviewTab.tsx
+vibe\frontend\src\app\pages\student\components\FocusableSelectWidget.tsx
 
 vibe\backend\src\utils\startCron.ts
 vibe\backend\src\shared\database\providers\mongo\repositories\ProgressRepository.ts
